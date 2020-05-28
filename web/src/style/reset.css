@@ -1,0 +1,149 @@
+html {
+  font-family: Helvetica Neue,Helvetica,PingFang SC,Microsoft Yahei,WenQuanYi Micro Hei,Arial,Verdana,sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  color: #000;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.666;
+}
+
+html,
+body,
+header,
+footer,
+section,
+aside,
+article,
+nav,
+hgroup,
+figure,
+figcaption,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+form,
+p,
+dl,
+dt,
+dd,
+blockquote,
+legend,
+table,
+th,
+td,
+fieldset,
+menu,
+pre {
+  margin: 0;
+  padding: 0;
+}
+
+table,
+th,
+td,
+img,
+fieldset {
+  border: 0;
+}
+
+time,
+mark,
+output,
+meter,
+address,
+cite,
+em,
+code,
+var,
+dfn,
+ins,
+i,
+th,
+caption {
+  font-style: normal;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+th {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+input,
+select,
+button,
+textarea,
+table {
+  margin: 0;
+  font-family: inherit;
+  font-size: 100%;
+}
+
+button:focus {
+  outline: none;
+}
+
+abbr,
+acronym {
+  border: 0;
+  font-variant: normal;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+th,
+caption {
+  text-align: left;
+}
+
+header,
+footer,
+section,
+aside,
+article,
+nav,
+hgroup,
+figure,
+figcaption {
+  display: block;
+}
+
+a {
+  color: rgba(75, 146, 255, 1);
+  text-decoration: none;
+  outline: none;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}

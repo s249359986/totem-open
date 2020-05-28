@@ -1,0 +1,15 @@
+.mr10 {
+  margin-right: 10px;
+}
+
+.el-table__header-wrapper {
+  color: #000 !important;
+  background: #e4e4e4;
+}
+.el-table th.is-leaf {
+  background: #e4e4e4 !important;
+}
+.el-table__footer-wrapper thead div, .el-table__header-wrapper thead div {
+  color: #000 !important;
+  background: #e4e4e4 !important;
+}

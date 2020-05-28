@@ -1,0 +1,38 @@
+{
+  "name": "servenew",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "pm2 start ./bin/totem"
+  },
+  "dependencies": {
+    "baidu-aip-sdk": "^2.4.5",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^3.1.8",
+    "debug": "~2.6.9",
+    "express": "~4.16.0",
+    "ftp": "^0.3.10",
+    "gm": "^1.23.1",
+    "imagemin": "^7.0.1",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.1.0",
+    "log4js": "^1.1.1",
+    "morgan": "~1.9.0",
+    "multer": "^1.4.2",
+    "node-schedule": "^1.2.1",
+    "pify": "^4.0.1",
+    "protobufjs": "^6.6.5",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "uuid": "^3.3.3",
+    "vinyl-fs": "^2.4.4",
+    "vinyl-ftp": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "mocha": "^2.5.3",
+    "should": "^13.2.1",
+    "supertest": "^1.2.0"
+  }
+}
