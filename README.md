@@ -58,6 +58,9 @@ npm run build
   - home (图片压缩)
   - qr (二维码生成)
 
-
 ```
+
+## 图像学习资料
+
+[二维码](https://www.qrcode.com/zh/)
 
