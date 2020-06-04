@@ -54,6 +54,10 @@ npm run build
 ```
 - web 根目录
 - src 源文件
+ - views
+  - home (图片压缩)
+  - qr (二维码生成)
 
 
 ```
+
