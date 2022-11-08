@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "eslint": "^4.9.0",
-    "mocha": "^2.5.3",
+    "mocha": "^10.1.0",
     "should": "^13.2.1",
     "supertest": "^1.2.0"
   }
