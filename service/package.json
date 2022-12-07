@@ -7,11 +7,11 @@
   },
   "dependencies": {
     "baidu-aip-sdk": "^2.4.5",
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.1",
     "cors": "^2.8.5",
     "crypto-js": "^3.1.8",
     "debug": "~2.6.9",
-    "express": "~4.16.0",
+    "express": "~4.18.2",
     "ftp": "^0.3.10",
     "gm": "^1.23.1",
     "imagemin": "^7.0.1",
@@ -33,6 +33,6 @@
     "eslint": "^4.9.0",
     "mocha": "^2.5.3",
     "should": "^13.2.1",
-    "supertest": "^1.2.0"
+    "supertest": "^6.3.2"
   }
 }
