@@ -33,6 +33,6 @@
     "eslint": "^4.9.0",
     "mocha": "^2.5.3",
     "should": "^13.2.1",
-    "supertest": "^1.2.0"
+    "supertest": "^6.3.3"
   }
 }
